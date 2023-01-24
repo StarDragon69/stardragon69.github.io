@@ -20,7 +20,7 @@ body {
     color: black;
     font-size:3vw;
     background-position-y: 80vw;
-    cursor:url('static/images/ursor.svg'), auto;
+    cursor:url('static/images/cursor.svg'), auto;
 }
 
 h1 {
